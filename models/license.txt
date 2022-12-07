@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pedestrian Traffic Light
+* source:	https://sketchfab.com/3d-models/pedestrian-traffic-light-2f720ea69cb2407ba8598c02305ce524
+* author:	ASA21 (https://sketchfab.com/ASA21)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pedestrian Traffic Light" (https://sketchfab.com/3d-models/pedestrian-traffic-light-2f720ea69cb2407ba8598c02305ce524) by ASA21 (https://sketchfab.com/ASA21) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
